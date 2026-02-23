@@ -132,3 +132,4 @@ if(json.loads(response.choices[0].message.content).get("step")=="RESULT"):
 
 print(response.choices[0].message.content)
         
+54
